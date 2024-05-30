@@ -16,19 +16,24 @@
 
 <br />
 
-![image](https://github.com/LEEJINTAEK/message-service/assets/109197023/9ef05f31-cbfa-42b1-9d77-6697506da46f)
+<img src="https://github.com/LEEJINTAEK/message-service/assets/109197023/9ef05f31-cbfa-42b1-9d77-6697506da46f" width="500" height="auto">
 
 <br />
 
-![image](https://github.com/LEEJINTAEK/message-service/assets/109197023/f7fe88c0-2bf9-4cd0-98a7-040081b7adb5)
+<img src="https://github.com/LEEJINTAEK/message-service/assets/109197023/f7fe88c0-2bf9-4cd0-98a7-040081b7adb5" width="500" height="auto">
 
 <br />
 
-![image](https://github.com/LEEJINTAEK/message-service/assets/109197023/b6f8550c-964c-439d-a98f-e14fb6788709)
+<img src="https://github.com/LEEJINTAEK/message-service/assets/109197023/b6f8550c-964c-439d-a98f-e14fb6788709" width="500" height="auto">
 
 <br />
 <br />
 
 ## 서비스 아키텍처
 
-![image](https://github.com/LEEJINTAEK/message-service/assets/109197023/f28db559-19a6-4baf-bfaf-f38c14866926)
+<img src="https://github.com/LEEJINTAEK/message-service/assets/109197023/f28db559-19a6-4baf-bfaf-f38c14866926" width="500" height="auto">
+
+## 다음 패치 사항
+
+1. "로딩중 페이지" 화면 비율 1/2 => full로 수정
+2. 3D 아이콘 수정 작업
